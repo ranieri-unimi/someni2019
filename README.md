@@ -1,4 +1,4 @@
-# Someni 2019 - Ranieri 2019
+# Someni 2019 - Ranieri 892919
 SoMeNi academic project
 
 ## Wailord = Visual Studio Project + Jupyter Notebook
